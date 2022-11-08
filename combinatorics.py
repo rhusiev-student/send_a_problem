@@ -79,7 +79,7 @@ def variations(n: int, r: int) -> int:
     pass
 
 
-def combinations_with_repetition(n: int, r: int) -> int:
+def combinations_with_repetitions(n: int, r: int) -> int:
     """
     Return combinations with repetition of n and r
 
@@ -99,7 +99,7 @@ def combinations_with_repetition(n: int, r: int) -> int:
     pass
 
 
-def variations_with_repetition(n: int, r: int) -> int:
+def variations_with_repetitions(n: int, r: int) -> int:
     """
     Return variations with repetition of n and r
 
