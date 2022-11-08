@@ -21,9 +21,9 @@ def factorial(number: int) -> int:
     pass
 
 
-def combination(n: int, r: int) -> int:
+def combinations(n: int, r: int) -> int:
     """
-    Return combination of n and r
+    Return combinations of n and r
 
     Parameters
     ----------
@@ -41,9 +41,9 @@ def combination(n: int, r: int) -> int:
     pass
 
 
-def permutation(n: int) -> int:
+def permutations(n: int) -> int:
     """
-    Return permutation of n
+    Return permutations of n
 
     Parameters
     ----------
@@ -59,9 +59,9 @@ def permutation(n: int) -> int:
     pass
 
 
-def variation(n: int, r: int) -> int:
+def variations(n: int, r: int) -> int:
     """
-    Return variation of n and r
+    Return variations of n and r
 
     Parameters
     ----------
@@ -79,9 +79,9 @@ def variation(n: int, r: int) -> int:
     pass
 
 
-def combination_with_repetition(n: int, r: int) -> int:
+def combinations_with_repetition(n: int, r: int) -> int:
     """
-    Return combination with repetition of n and r
+    Return combinations with repetition of n and r
 
     Parameters
     ----------
@@ -99,9 +99,9 @@ def combination_with_repetition(n: int, r: int) -> int:
     pass
 
 
-def variation_with_repetition(n: int, r: int) -> int:
+def variations_with_repetition(n: int, r: int) -> int:
     """
-    Return variation with repetition of n and r
+    Return variations with repetition of n and r
 
     Parameters
     ----------
